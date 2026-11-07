@@ -2,7 +2,7 @@
 My first project as a GCTU IT student 
 My First GitHub Project
 
-Hello! My name is Nhasty.
+Hello! My name is WILLIAMS
 
 I am a BSc Information Technology student at GCTU in Ghana.
 
